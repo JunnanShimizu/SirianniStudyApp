@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zettelkasten</string>
+    <string name="zettelkasten">Zettelkasten</string>
+    <string name="add_term">Add</string>
+</resources>
